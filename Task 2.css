@@ -1,0 +1,39 @@
+
+.con{
+    width: 70%;
+    border: 3px solid purple;
+    background-color: rgb(250, 226, 205);
+    margin: 33px auto;
+}  
+#d1{
+    float: left;
+    width: 48%;
+}
+#d2{
+    float: right;
+    width: 48%;
+}
+#d3{
+    float: left;
+    width: 48%;
+}
+#d4{
+    float: right;
+    width: 48%;
+}
+#d5{
+    float: left;
+    width: 48%;
+}
+#d6{
+    float: right;
+    width: 48%;
+}
+#d7{
+    float: left;
+    width: 48%;
+}
+#d8{
+    float: right;
+    width: 48%;
+}
